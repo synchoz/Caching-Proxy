@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CachingProxyCLI/1.0.0": {
+        "dependencies": {
+          "CachingProxyServer": "1.0.0"
+        },
+        "runtime": {
+          "CachingProxyCLI.dll": {}
+        }
+      },
+      "CachingProxyServer/1.0.0": {
+        "runtime": {
+          "CachingProxyServer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CachingProxyCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CachingProxyServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

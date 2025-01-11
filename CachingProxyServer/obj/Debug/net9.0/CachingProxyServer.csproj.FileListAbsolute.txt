@@ -1,0 +1,11 @@
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\bin\Debug\net9.0\CachingProxyServer.deps.json
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\bin\Debug\net9.0\CachingProxyServer.dll
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\bin\Debug\net9.0\CachingProxyServer.pdb
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.AssemblyInfoInputs.cache
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.AssemblyInfo.cs
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.dll
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\refint\CachingProxyServer.dll
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\CachingProxyServer.pdb
+C:\Users\dima2\Projects\CachingProxy\CachingProxyServer\obj\Debug\net9.0\ref\CachingProxyServer.dll
